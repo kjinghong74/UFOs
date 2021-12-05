@@ -5,7 +5,7 @@
   
   
 ## **Results**
-- The users can filter the table according to Date, City, State, Country, and Shape of the UFO sightings. A complete data table is displaced on the webpage after initial loading, if user want to filter the UFO sightings identified in certain state, such as in ak, the the user need enter "ak" in the table filter of "Enter State". Then the table will only show UFO sightings in ak (Fig 1). If user is further interested in "sphere" shape of the UFOs in ak, they can then enter "sphere" in the table filter of "Enter Shape". This will only bring the data showing the UFO in sphere shape in ak (Fig 2).
+- The users can filter the table according to Date, City, State, Country, and Shape of the UFO sightings. A complete data table is displaced on the webpage after initial loading, if user want to filter the UFO sightings identified in certain state, such as in ak, user need enter "ak" in the table filter of "Enter State". Then the table will only show UFO sightings in ak (Fig 1). If user is further interested in "sphere" shape of the UFOs in ak, they can then enter "sphere" in the table filter of "Enter Shape". This will only bring the data showing the UFO in sphere shape in ak (Fig 2).
 
 Figure 1:
 
@@ -18,5 +18,5 @@ Figure 2:
 
 
 ## **Summary**
-- One drawback of this webpage is the article and the table has the fixed data, which can't not be updated with the newest findings
-- Two recommendations for further develpment. (1) The script can be designed to scrape the most recent news or article about UFO so that user can see the update of new articles when they visit the webpage later. (2) UFO data can be imported using API call, so that new findings can be added into the datatable. 
+- One drawback of this webpage is the article and the table has fixed data, which can't not be updated with the newest findings
+- Two recommendations for further develpment. (1) The script can be designed to scrape the most recent news or article about UFO so that user can see the update of new articles when they visit the webpage next time. (2) UFO data can be imported using API call, so that new data can be added into the datatable. These changes will make this webpage updatable. 
