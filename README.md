@@ -18,4 +18,5 @@ Figure 2:
 
 
 ## **Summary**
-  The temperature in Dec in Oahu is only a few degree lower compared to the temperature in Jun. Therefore, there is not too much temperature difference in Oahu even between summer season and winter season. So, the temperature is quite sustainable year-round. That is good for opening surf and ice cream shop. But there are other parameters heavely affect the cosumers' habit for surfing and ice cream too, such as the precipitation level and geography location. We should also include two other queries for data analysis. (1) the precipitation level in Jun and Dec; (2) whether temperature and precipitaition level differ at locations, which can be analyzed bases on the parameters for latitude, longitude and elevation. 
+- One drawback of this webpage is the article and the table has the fixed data, which can't not be updated with the newest findings
+- Two recommendations for further develpment. (1) The script can be designed to scrape the most recent news or article about UFO so that user can see the update of new articles when they visit the webpage later. (2) UFO data can be imported using API call, so that new findings can be added into the datatable. 
